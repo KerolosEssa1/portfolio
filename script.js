@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* Kerolos Essa — portfolio interactions (no frameworks) */
 
 (() => {
@@ -442,7 +441,7 @@
   loadGithubProjects();
 })();
 
-=======
+
 /* Kerolos Essa — portfolio interactions (no frameworks) */
 
 (() => {
@@ -886,4 +885,3 @@
   loadGithubProjects();
 })();
 
->>>>>>> 66e9a711c16e1f2e109d86602691ecd785edf195
